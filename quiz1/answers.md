@@ -9,4 +9,5 @@ ll = [xs, ys, zs]
 ### Functions
 (head . tail) ll -> [4,5]  
 1. Compute tail ll -> [[4,5],[6]]  
-2. Compute head on tail ll (head [[4,5],[6]]) -> **[4,5]**  
+2. Compute head on tail ll -> **[4,5]**  
+  - (head [[4,5],[6]])
