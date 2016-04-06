@@ -7,6 +7,6 @@ zs = [6]
 ll = [xs, ys, zs]  
 
 ### Functions
-`(head . tail) ll -> [4,5]`  
-1. `tail ll -> [[4,5],[6]]`   
+`(head . tail) ll` -> [4,5]  
+1. `tail ll` -> [[4,5],[6]]   
 2. `head (tail ll)` -> **[4,5]**  
